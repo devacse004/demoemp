@@ -13,7 +13,7 @@ import com.example.demo.domain.EmployeeDB;
 @RestController
 
 public class EmployeeDBController {
-
+@lol
 	@Autowired
 	private EmployeeDBService employeeDBService;
 
